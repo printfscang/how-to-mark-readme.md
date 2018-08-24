@@ -1,2 +1,1 @@
-# readme.md
-关于readme.md文件的编辑和使用
+README文件后缀名为md。md是markdown的缩写，markdown是一种编辑博客的语言。
